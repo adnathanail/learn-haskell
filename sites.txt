@@ -1,0 +1,9 @@
+http://cheatsheet.codeslower.com/CheatSheet.pdf
+https://www.haskell.org/tutorial/goodies.html
+http://learnyouahaskell.com/higher-order-functions
+http://wp.doc.ic.ac.uk/ajf/sat/
+https://www.doc.ic.ac.uk/~ajf/haskelltests/sat/spec.pdf
+https://imada.sdu.dk/~rolf/Edu/DM22/F06/haskell-operatorer.pdf
+https://en.wikibooks.org/wiki/Haskell/Truth_values
+https://wiki.haskell.org/99_questions/1_to_10
+https://exercism.io/tracks/haskell
